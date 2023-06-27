@@ -30,3 +30,7 @@ li {
     transition: 0.5s;
     font-size: 1em;
 }
+
+body { 
+    margin: 2em; 
+}
