@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
+
+html {
+    font-family: 'Montserrat';
+    text-shadow: 1px 1px 2px rgb(66, 66, 66);
+    background: url(townbg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(255, 255, 255);
+    min-width: 100%;
+    min-height: 100%;
+}
+
+.welcome:hover {
+    font-size: 3.2em;
+    transition: 0.5s;
+}
+
+.welcome {
+    font-size: 3em;
+    transition: 0.5s;
+}
+
+li:hover {
+    transition: 0.5s;
+    font-size: 1.2em;
+}
+
+li {
+    transition: 0.5s;
+    font-size: 1em;
+}
